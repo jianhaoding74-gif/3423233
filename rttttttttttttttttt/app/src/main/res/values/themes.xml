@@ -1,6 +1,0 @@
-<resources>
-    <style name="Theme.WeChatMoments" parent="Theme.AppCompat.Light.NoActionBar">
-        <item name="android:statusBarColor">#EDEDED</item>
-        <item name="android:windowLightStatusBar">true</item>
-    </style>
-</resources>
